@@ -1,3 +1,8 @@
+---
+layout: default
+title: SynthixAI Support
+---
+
 # SynthixAI Support
 
 ## App-Beschreibung
